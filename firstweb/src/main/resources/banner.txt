@@ -1,0 +1,5 @@
+太极学院
+${spring-boot.version}
+${spring-boot.formatted-version}
+${Ansi.NAME}
+${Ansi.EMAIL}
